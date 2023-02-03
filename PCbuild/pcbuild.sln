@@ -1,0 +1,100 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pythoncore", "pythoncore.vcxproj", "{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "_ctypes", "_ctypes.vcxproj", "{0E9791DB-593A-465F-98BC-681011311618}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		PGInstrument|ARM = PGInstrument|ARM
+		PGInstrument|ARM64 = PGInstrument|ARM64
+		PGInstrument|Win32 = PGInstrument|Win32
+		PGInstrument|x64 = PGInstrument|x64
+		PGUpdate|ARM = PGUpdate|ARM
+		PGUpdate|ARM64 = PGUpdate|ARM64
+		PGUpdate|Win32 = PGUpdate|Win32
+		PGUpdate|x64 = PGUpdate|x64
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Debug|ARM.ActiveCfg = Debug|ARM
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Debug|ARM.Build.0 = Debug|ARM
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Debug|ARM64.Build.0 = Debug|ARM64
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Debug|Win32.Build.0 = Debug|Win32
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Debug|x64.ActiveCfg = Debug|x64
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Debug|x64.Build.0 = Debug|x64
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGInstrument|ARM.ActiveCfg = PGInstrument|ARM
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGInstrument|ARM.Build.0 = PGInstrument|ARM
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGInstrument|ARM64.ActiveCfg = PGInstrument|ARM64
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGInstrument|ARM64.Build.0 = PGInstrument|ARM64
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGInstrument|Win32.ActiveCfg = PGInstrument|Win32
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGInstrument|Win32.Build.0 = PGInstrument|Win32
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGInstrument|x64.ActiveCfg = PGInstrument|x64
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGInstrument|x64.Build.0 = PGInstrument|x64
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGUpdate|ARM.ActiveCfg = PGUpdate|ARM
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGUpdate|ARM.Build.0 = PGUpdate|ARM
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGUpdate|ARM64.ActiveCfg = PGUpdate|ARM64
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGUpdate|ARM64.Build.0 = PGUpdate|ARM64
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGUpdate|Win32.ActiveCfg = PGUpdate|Win32
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGUpdate|Win32.Build.0 = PGUpdate|Win32
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGUpdate|x64.ActiveCfg = PGUpdate|x64
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGUpdate|x64.Build.0 = PGUpdate|x64
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Release|ARM.ActiveCfg = Release|ARM
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Release|ARM.Build.0 = Release|ARM
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Release|ARM64.ActiveCfg = Release|ARM64
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Release|ARM64.Build.0 = Release|ARM64
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Release|Win32.ActiveCfg = Release|Win32
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Release|Win32.Build.0 = Release|Win32
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Release|x64.ActiveCfg = Release|x64
+		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Release|x64.Build.0 = Release|x64
+		{0E9791DB-593A-465F-98BC-681011311618}.Debug|ARM.ActiveCfg = Debug|ARM
+		{0E9791DB-593A-465F-98BC-681011311618}.Debug|ARM.Build.0 = Debug|ARM
+		{0E9791DB-593A-465F-98BC-681011311618}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{0E9791DB-593A-465F-98BC-681011311618}.Debug|ARM64.Build.0 = Debug|ARM64
+		{0E9791DB-593A-465F-98BC-681011311618}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E9791DB-593A-465F-98BC-681011311618}.Debug|Win32.Build.0 = Debug|Win32
+		{0E9791DB-593A-465F-98BC-681011311618}.Debug|x64.ActiveCfg = Debug|x64
+		{0E9791DB-593A-465F-98BC-681011311618}.Debug|x64.Build.0 = Debug|x64
+		{0E9791DB-593A-465F-98BC-681011311618}.PGInstrument|ARM.ActiveCfg = PGInstrument|ARM
+		{0E9791DB-593A-465F-98BC-681011311618}.PGInstrument|ARM.Build.0 = PGInstrument|ARM
+		{0E9791DB-593A-465F-98BC-681011311618}.PGInstrument|ARM64.ActiveCfg = PGInstrument|ARM64
+		{0E9791DB-593A-465F-98BC-681011311618}.PGInstrument|ARM64.Build.0 = PGInstrument|ARM64
+		{0E9791DB-593A-465F-98BC-681011311618}.PGInstrument|Win32.ActiveCfg = PGInstrument|Win32
+		{0E9791DB-593A-465F-98BC-681011311618}.PGInstrument|Win32.Build.0 = PGInstrument|Win32
+		{0E9791DB-593A-465F-98BC-681011311618}.PGInstrument|x64.ActiveCfg = PGInstrument|x64
+		{0E9791DB-593A-465F-98BC-681011311618}.PGInstrument|x64.Build.0 = PGInstrument|x64
+		{0E9791DB-593A-465F-98BC-681011311618}.PGUpdate|ARM.ActiveCfg = PGUpdate|ARM
+		{0E9791DB-593A-465F-98BC-681011311618}.PGUpdate|ARM.Build.0 = PGUpdate|ARM
+		{0E9791DB-593A-465F-98BC-681011311618}.PGUpdate|ARM64.ActiveCfg = PGUpdate|ARM64
+		{0E9791DB-593A-465F-98BC-681011311618}.PGUpdate|ARM64.Build.0 = PGUpdate|ARM64
+		{0E9791DB-593A-465F-98BC-681011311618}.PGUpdate|Win32.ActiveCfg = PGUpdate|Win32
+		{0E9791DB-593A-465F-98BC-681011311618}.PGUpdate|Win32.Build.0 = PGUpdate|Win32
+		{0E9791DB-593A-465F-98BC-681011311618}.PGUpdate|x64.ActiveCfg = PGUpdate|x64
+		{0E9791DB-593A-465F-98BC-681011311618}.PGUpdate|x64.Build.0 = PGUpdate|x64
+		{0E9791DB-593A-465F-98BC-681011311618}.Release|ARM.ActiveCfg = Release|ARM
+		{0E9791DB-593A-465F-98BC-681011311618}.Release|ARM.Build.0 = Release|ARM
+		{0E9791DB-593A-465F-98BC-681011311618}.Release|ARM64.ActiveCfg = Release|ARM64
+		{0E9791DB-593A-465F-98BC-681011311618}.Release|ARM64.Build.0 = Release|ARM64
+		{0E9791DB-593A-465F-98BC-681011311618}.Release|Win32.ActiveCfg = Release|Win32
+		{0E9791DB-593A-465F-98BC-681011311618}.Release|Win32.Build.0 = Release|Win32
+		{0E9791DB-593A-465F-98BC-681011311618}.Release|x64.ActiveCfg = Release|x64
+		{0E9791DB-593A-465F-98BC-681011311618}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C33FFD3-C8DC-4A54-B842-8BA9846BDFFE}
+	EndGlobalSection
+EndGlobal
